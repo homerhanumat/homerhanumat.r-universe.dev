@@ -1,0 +1,14 @@
+[
+    {
+        "package": "bcscr",
+        "url": "https://github.com/homerhanumat/bcscr"
+    },
+    {
+        "package": "tigerData",
+        "url": "https://github.com/homerhanumat/tigerData"
+    },
+    {
+        "package": "tigerTree",
+        "url": "https://github.com/homerhanumat/tigerTree"
+    }
+]
