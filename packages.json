@@ -10,5 +10,9 @@
     {
         "package": "tigerTree",
         "url": "https://github.com/homerhanumat/tigerTree"
+    },
+    {
+        "package": "LSTbook",
+        "url": "https://github.com/dtkaplan/LSTbook"
     }
 ]
