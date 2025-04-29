@@ -18,5 +18,9 @@
     {
         "package": "tigerstats",
         "url": "https://github.com/homerhanumat/tigerstats"
+    },
+    {
+        "package": "LSTtest",
+        "url": "https://github.com/homerhanumat/LSTtest"
     }
 ]
